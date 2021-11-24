@@ -1,0 +1,56 @@
+.container .row .tabs {
+  border-bottom: solid #2591eb 4px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.container .row .tabs button {
+  width: 180px;
+  height: 60px;
+  border-radius: 14px;
+  border-bottom: none;
+}
+
+.container .row .tabs button .tab a {
+  text-decoration: none;
+  color: #979494;
+  text-align: center;
+}
+
+.container .row .info-section .info {
+  -webkit-transition: 0.7s;
+  transition: 0.7s;
+  border: solid grey 1px;
+  width: 100%;
+  height: 250px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-top: none;
+}
+
+.container .row .info-section .info .image img {
+  width: 170px;
+  height: 150px;
+  margin-left: 15px;
+}
+
+.container .row .info-section #qazax {
+  width: 0px;
+  height: 0px;
+  overflow: hidden;
+}
+
+.container .row .info-section #sumqayit {
+  width: 0px;
+  height: 0px;
+  overflow: hidden;
+}
+
+.container .row .info-section #quba {
+  width: 0px;
+  height: 0px;
+  overflow: hidden;
+}
+/*# sourceMappingURL=style.css.map */
